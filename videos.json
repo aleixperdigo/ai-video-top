@@ -1549,6 +1549,24 @@
       "description": "A satirical musical about NVIDIA and the AI chip race, staged as a string-puppet show: tech CEOs and world leaders dangle from wires, a factory churns out robot pin-ups and GPUs come stacked like pancakes on a diner menu. Packed with streamer and VTuber cameos. Original song by Skyebrows, made with Dreamina.",
       "source": "https://www.youtube.com/watch?v=Qik_AY9jv2s",
       "views": 78020
+    },
+    {
+      "id": "fear-is-real-aiskream",
+      "youtubeId": "z10z_lGcyks",
+      "title": "Fear Is Real. So Is Kindness.",
+      "director": "AISKREAM productions (dir. Eduard Puig Martinez)",
+      "tool": "Dreamina",
+      "date": "2026-10-26",
+      "categories": [
+        "Narrative",
+        "Photorealism",
+        "Aesthetics / Art",
+        "Character consistency"
+      ],
+      "highlight": "Halloween short · made for Dreamina",
+      "description": "A Halloween short about fear, appearances and compassion, built around a menacing clown and shot like a low-key indie horror film: wood-panelled hallways, practical lamplight, shallow focus. Made with generative AI as a Dreamina creator collaboration.",
+      "source": "https://www.youtube.com/watch?v=z10z_lGcyks",
+      "views": 18546
     }
   ]
 }
